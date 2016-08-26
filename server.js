@@ -26,7 +26,7 @@ var defaultLogger = {
     console.log(msg);
   },
 
-  warn: function (msg) {
+  warning: function (msg) {
     console.log(msg);
   },
 
